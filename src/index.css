@@ -1,0 +1,25 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+/* Add custom styles for your landing page */
+.landing-title {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.landing-subtitle {
+  color: #ffd700;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
